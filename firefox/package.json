@@ -2,7 +2,7 @@
   "id": "@sf-chat-fixer",
   "title": "SFChat Fixer",
   "name": "professorpasserine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fixes some common issues with the SF chat system. With love, ProfessorPasserine",
   "main": "index.js",
   "author": "ProfessorPasserine",
