@@ -10,4 +10,5 @@ chat system, this extension will be removed.
 
 ## Current Supported Browsers
 * Google Chrome
+* Firefox (>=38.0a1)
 
