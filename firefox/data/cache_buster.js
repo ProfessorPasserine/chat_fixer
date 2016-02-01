@@ -3,7 +3,7 @@ unsafeWindow.cache_buster = '&cb='+Math.random();
 
 setInterval(function(){
   unsafeWindow.cache_buster='&cb='+Math.random();
-}, 5*60*10);
+}, 5*60*1000);
 
 
 function drawMessage(messageData, autoScroll){
