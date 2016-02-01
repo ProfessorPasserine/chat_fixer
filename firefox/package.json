@@ -1,0 +1,16 @@
+{
+  "title": "SFChat Fixer",
+  "name": "professorpasserine",
+  "version": "1.0.0",
+  "description": "Fixes some common issues with the SF chat system. With love, ProfessorPasserine",
+  "main": "index.js",
+  "author": "ProfessorPasserine",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "keywords": [
+    "SoFurry",
+    "Chat",
+    "Fixer"
+  ]
+}
